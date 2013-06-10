@@ -1,6 +1,9 @@
 app name: winTop
+
 licence: GNU/GPL
+
 programming language: C#
+
 used technologies: Windows(R) WMI
 
 how to run:
